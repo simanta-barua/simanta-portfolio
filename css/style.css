@@ -50,17 +50,24 @@ p{
     flex-direction: row-reverse;
     margin-top: 80px;
 }
+
 .experience{
     background-image: url(/img/exp-bg.png);
     background-repeat: no-repeat;
+    margin-top: 60px;
     
 }
 .experience h1{
-    margin-left: 50px;
+    margin-left: 80px;
+
+    
 }
 .experience p{
     text-align: justify;
     text-justify: auto;
+}
+.experience-items h1{
+    color: orange;
 }
 .experience-items {
 
