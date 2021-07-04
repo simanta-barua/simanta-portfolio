@@ -58,6 +58,10 @@ p{
 .experience h1{
     margin-left: 50px;
 }
+.experience p{
+    text-align: justify;
+    text-justify: auto;
+}
 .experience-items {
 
      width: 40%;
