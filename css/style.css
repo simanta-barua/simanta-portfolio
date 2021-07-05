@@ -22,7 +22,7 @@ p{
     padding-left: 5%;
 }
 .half-width img{
-    width: 80%;
+    width: auto;
 }
 .link-button{
     text-decoration: none;
